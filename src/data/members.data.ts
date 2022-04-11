@@ -133,7 +133,13 @@ const members: Member[] = [
     githubUrl: 'https://github.com/ZDHdong',
     blogUrl: 'https://www.cnblogs.com/Z-dong/',
   },
-
+  {
+    name: '20kkk', 
+    avatar: 'github:20kkk',
+    description: '做一个有办法的人',
+    githubUrl: 'https://github.com/20kkk',
+    blogUrl: 'https://20kkk.github.io/',
+  },
 ]
 .map(it => ({
   ...it,
